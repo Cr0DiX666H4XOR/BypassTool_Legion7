@@ -1,5 +1,12 @@
 # BypassTool_Legion7
 
+## Tools Priv8 Tools 
+```
+Tools Di Tarik Oleh Cr0DiX666
+Silahkan Hubungi contact Telegram: https://t.me/Cr0DiX666
+
+```
+
 ## USE Python2 For Tools
 ```
 Requirements tool For Dependencies For tool
