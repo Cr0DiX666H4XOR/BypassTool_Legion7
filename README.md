@@ -7,6 +7,11 @@ Silahkan Hubungi contact Telegram: https://t.me/Cr0DiX666
 
 ```
 
+## ScreenShot Tools Priv8 Tools Bypass Admin SQLi From Log in
+```
+<a href="https://ibb.co/QdtZPxp"><img src="https://i.ibb.co/wsjTS2B/Screenshot-2024-04-03-16-51-30-30.png" alt="Screenshot-2024-04-03-16-51-30-30" border="0"></a>
+
+```
 ## USE Python2 For Tools
 ```
 Requirements tool For Dependencies For tool
