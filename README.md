@@ -6,6 +6,7 @@ Tools Telah kami Tarik Demi kenyamanan bersama
 Hubungi Telegram:
 ```
 t.me/Cr0DiX666
+
 content://com.android.chrome.FileProvider/images/screenshot/1712141133351410697644.png
 
 ## ScreenShot Tools Priv8 Tools Bypass Admin SQLi From Log in
