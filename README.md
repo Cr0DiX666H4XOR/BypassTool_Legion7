@@ -5,8 +5,10 @@
 Tools Telah kami Tarik Demi kenyamanan bersama
 Hubungi Telegram:
 ```
-https://images.app.goo.gl/9yHpTKQ4gdf1Ea347
+content://com.android.chrome.FileProvider/images/screenshot/1712140788746554146521.gif![image]
 https://t.me/Cr0DiX666
+(https://github.com/Cr0DiX666H4XOR/BypassTool_Legion7/assets/161714583/fe0e6920-7ec4-442b-8833-5cdb153052fe)
+
 
 ## ScreenShot Tools Priv8 Tools Bypass Admin SQLi From Log in
 <a href="https://ibb.co/QdtZPxp"><img src="https://i.ibb.co/wsjTS2B/Screenshot-2024-04-03-16-51-30-30.png" alt="Screenshot-2024-04-03-16-51-30-30" border="0"></a>
