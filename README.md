@@ -6,7 +6,6 @@ Tools Telah kami Tarik Demi kenyamanan bersama
 Hubungi Telegram:
 ```
 content://com.android.chrome.FileProvider/images/screenshot/1712140788746554146521.gif![image]
-https://t.me/Cr0DiX666
 (https://github.com/Cr0DiX666H4XOR/BypassTool_Legion7/assets/161714583/fe0e6920-7ec4-442b-8833-5cdb153052fe)
 
 
