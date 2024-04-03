@@ -6,7 +6,7 @@ Tools Di Tarik Oleh Cr0DiX666
 Silahkan Hubungi contact Telegram:
 
 ```
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdIoot2dj50Uc7pAqSA_V4m3nTTB4WJ9ITcN9ccsfDEA&s(https://t.me/Cr0DiX666)
+content://com.android.chrome.FileProvider/images/screenshot/1712139712089-2046516513.png![image](https://github.com/Cr0DiX666H4XOR/BypassTool_Legion7/assets/161714583/746aad1b-8042-4e16-8b2a-ee14f6dc3bca(https://t.me/Cr0DiX666))
 
 ## ScreenShot Tools Priv8 Tools Bypass Admin SQLi From Log in
 <a href="https://ibb.co/QdtZPxp"><img src="https://i.ibb.co/wsjTS2B/Screenshot-2024-04-03-16-51-30-30.png" alt="Screenshot-2024-04-03-16-51-30-30" border="0"></a>
