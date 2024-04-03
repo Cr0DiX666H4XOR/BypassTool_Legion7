@@ -6,7 +6,9 @@ Tools Di Tarik Oleh Cr0DiX666
 Silahkan Hubungi contact Telegram:
 
 ```
-https://private-user-images.githubusercontent.com/161714583/319143113-746aad1b-8042-4e16-8b2a-ee14f6dc3bca.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIxNDAwNzMsIm5iZiI6MTcxMjEzOTc3MywicGF0aCI6Ii8xNjE3MTQ1ODMvMzE5MTQzMTEzLTc0NmFhZDFiLTgwNDItNGUxNi04YjJhLWVlMTRmNmRjM2JjYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwM1QxMDIyNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YTIxZmFlYTA1ZDIzZWQyNWVjZWE3NmM5NjVhMmZlMzI1NTAxMDFjY2I0ZmU5NGU3NDdmYjAzMmI1NmJjZWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.3TSfaDy-yjQSdvdgHdojLulzitpTBvpSx0tOaGa-st4
+
+
+](https://iconscout.com/lottie-animations/telegram)&&(https://t.me/Cr0DiX666
 
 ## ScreenShot Tools Priv8 Tools Bypass Admin SQLi From Log in
 <a href="https://ibb.co/QdtZPxp"><img src="https://i.ibb.co/wsjTS2B/Screenshot-2024-04-03-16-51-30-30.png" alt="Screenshot-2024-04-03-16-51-30-30" border="0"></a>
