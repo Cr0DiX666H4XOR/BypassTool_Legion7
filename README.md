@@ -19,7 +19,7 @@ $ git clone https://github.com/Cr0DiX666H4XOR/BypassTool_Legion7.git
 
 $ apt install python2
 
-$ apt install libsxlt libxml2
+$ apt install libxslt libxml2
 
 $ pip2 install Mechanize Bs4 lxml
 
